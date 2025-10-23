@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="app_title">Currency Converter</string>
+    <string name="button">Get Value</string>
+    <string name="dollar_value">Value in US Dollars =</string>
+    <string name="enter_value">enter Euro value</string>
+
+
+
+
+</resources>
