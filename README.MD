@@ -142,7 +142,7 @@ If you downloaded a .zip file:
 2. Clone the project 
 
 1. Download from Github
-. Navigate to project using link [Currency Converter Link](https://github.com/jadogeri/Android)
+. Navigate to project using link [Currency Converter Link](https://github.com/jadogeri/currency-converter-app.git)
 . Click on the code button.
 . Choose the option Download Zip .
 . Navigate to location where the zipped file was saved.
@@ -151,26 +151,27 @@ If you downloaded a .zip file:
 Go to the project directory
 
 ```bash
-   cd Android/Beginner/CurrencyConverter
+   cd currency-converter-app/CurrencyConverter
 ```
 
 2. Clone the project 
 
 ```bash
-  git clone https://github.com/jadogeri/Android.git
+  git clone https://github.com/jadogeri/currency-converter-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Android/Beginner/CurrencyConverter
+   cd currency-converter-app/CurrencyConverter
 ```
 
 Start project
 
 1. Open Android Studio.
 2. On the top tab bar, select File --> Open.
-3. Navigate to location project was saved i.e Android/Beginner/CurrencyConverter.
+3. Navigate to location project was saved i.e currency-converter-app/CurrencyConverter
+.
 4. Select project and press ok.
 5. On the top tab bar, Press Run --> Run.
 
